@@ -1,4 +1,6 @@
-Cryptocurrency icons
+Auto increment 
+====================
+Fork -> Cryptocurrency icons
 ====================
 
 List of SVG vector cryptocurrency icons/logos that are used on [coinranking.com](https://coinranking.com "coinranking.com").
